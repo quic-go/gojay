@@ -1,3 +1,11 @@
+# Minimized Fork
+
+This fork only provides encoding/decoding. Benchmarks and codegen has been removed.
+
+For those, refer to the [original repository](https://github.com/francoispqt/gojay).
+
+Original README:
+
 [![Build Status](https://travis-ci.org/francoispqt/gojay.svg?branch=master)](https://travis-ci.org/francoispqt/gojay)
 [![codecov](https://codecov.io/gh/francoispqt/gojay/branch/master/graph/badge.svg)](https://codecov.io/gh/francoispqt/gojay)
 [![Go Report Card](https://goreportcard.com/badge/github.com/francoispqt/gojay)](https://goreportcard.com/report/github.com/francoispqt/gojay)
